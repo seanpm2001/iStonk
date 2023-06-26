@@ -40,6 +40,12 @@ Please recommend more reverse image searching services that are privacy friendly
 
 ***
 
+## [Storage of content](#Storage-of-content)
+
+By default, iStonk does not collect any data that is uploaded or downloaded to/from it. Reverse searching is done only on existing content. And, like all of my other projects, iStonk does not collect personal or sensitive data.
+
+***
+
 ## [Etymology](#Etymology)
 
 iStonk is a play on iStock, a notorious watermarked image host. It is also a reference to the Internet meme: "stonks"
@@ -48,7 +54,7 @@ The `i` before `Stonk` (the `i` being lower case, and the second letter being ca
 
 This project is not affiliated with or owned by either iStock or Apple Inc. and it never will be.
 
-| <img src="/Graphics/iStink/iStink_iStock.jpeg" alt="iStock, more like iStink" width="408" height="272"> |
+| <img src="/Graphics/iStink/iStink_iStock.jpeg" alt="iStock, more like iStink" width="102" height="68"> |
 |---|
 | iStock, more like iStink |
 
@@ -60,9 +66,15 @@ This project is written in the Ruby programming language, as it is a nice langua
 
 ***
 
+## [Documentation](#Documentation)
+
+Additional documentation is located [:octocat: `here`](https://github.com/seanpm2001/iStonk_Docs/) documentation here is written in RDoc format, alongside Markdown.
+
+***
+
 # [File info](#File-info)
 
-**File version:** `1 (2023, Sunday, June 25th at 05:22 pm PST)`
+**File version:** `2 (2023, Sunday, June 25th at 11:06 pm PST)`
 
 ###### [EOF](#EOF)
 

@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+📈️📷️🌐️💾️ iStonk is tool that does a reverse image search on uploaded image/video files, and shows you results for a version without a watermark/other addon.
